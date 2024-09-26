@@ -1,0 +1,2 @@
+ALTER TABLE pagamentos
+    ALTER COLUMN expiracao TYPE VARCHAR(15);
